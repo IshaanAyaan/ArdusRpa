@@ -1,0 +1,9 @@
+{
+  "page": {
+    "url": "https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form",
+    "idle_spinner": null,
+    "success_selector": "text=/thank you|thanks|submitted|response/i",
+    "success_url_contains": ""
+  },
+  "submit_selector": null
+}

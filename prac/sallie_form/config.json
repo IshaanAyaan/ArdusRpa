@@ -1,0 +1,9 @@
+{
+  "page": {
+    "url": "https://www.sallie.com/scholarships/no-essay",
+    "idle_spinner": null,
+    "success_selector": "text=/thank you|thanks|submitted|response|success|application received|received your application/i",
+    "success_url_contains": ""
+  },
+  "submit_selector": "button:has-text('Submit my application')"
+}

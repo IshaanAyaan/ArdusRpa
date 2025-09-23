@@ -1,0 +1,8 @@
+[
+  {"label": "Are you a student or a parent of a student?", "type": "single_select", "value": "Student"},
+  {"label": "What is the student's high school graduation year?", "type": "single_select", "value": "2026"},
+  {"label": "What is the student's upcoming level of study?", "type": "single_select", "value": "High School Senior"},
+  {"label": "What college/university will you be attending, or are currently attending?", "type": "text", "value": "Stanford University"},
+  {"label": "Want to receive texts around planning and paying for college?", "type": "tel", "value": "5551234567"},
+  {"label": "By checking this box, you consent to being entered for a chance to win this scholarship and agree to the Official Rules, receiving marketing emails, and the collection and use of your personal information by SLM Education Services, LLC in accordance with our Privacy Policy", "type": "checkbox", "value": true}
+]

@@ -1,0 +1,29 @@
+timestamp,url,status,error
+2025-09-21_14-30-13,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,error,Failed to fill field 'Full Name' (type: text): Could not find text field for label: Full Name
+2025-09-21_14-30-21,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,error,Failed to fill field 'Full Name' (type: text): Could not find text field for label: Full Name
+2025-09-21_14-31-26,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,error,"Failed to fill field 'Age' (type: number): Locator.fill: Error: strict mode violation: get_by_label(""Age"") resolved to 2 elements:
+    1) <main aria-label=""Page canvas (collaborator mode)"" class=""relative all-0 flex flex-auto flex-column grow-1 z2 shadow-elevation-medium"">…</main> aka get_by_label(""Page canvas (collaborator"")
+    2) <textarea aria-invalid=""false"" aria-required=""true"" id=""d5143d0dad30ce5634befb98e29833f0"" class=""block width-full line-height-4 overflow-hidden break-word pre-wrap text-color-default placeholder-solid-quieter text-size-default colors-background-raised-control stroked-blue-inset-outset-focus rounded-big px1 css-1jhs511 shadow-elevation-low shadow-elevation-low-hover-not-focused""></textarea> aka get_by_test_id(""gridRowSection"").get_by_label(""Age"")
+
+Call log:
+  - waiting for get_by_label(""Age"")
+"
+2025-09-21_14-31-49,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,error,"Failed to fill field 'Age' (type: number): Locator.fill: Error: Element is not an <input>, <textarea> or [contenteditable] element
+Call log:
+  - waiting for get_by_label(""Age"").first
+  -     - locator resolved to <main aria-label=""Page canvas (collaborator mode)"" class=""relative all-0 flex flex-auto flex-column grow-1 z2 shadow-elevation-medium"">…</main>
+  -     - fill(""17"")
+  -   - attempting fill action
+  -     - waiting for element to be visible, enabled and editable
+"
+2025-09-21_14-32-03,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,error,"Page.wait_for_function: EvalError: Refused to evaluate a string as JavaScript because 'unsafe-eval' is not an allowed source of script in the following Content Security Policy directive: ""script-src 'nonce-Qaza2i79hmi9' 'unsafe-inline' 'strict-dynamic' 'report-sample' https:"".
+
+    at eval (<anonymous>)
+    at predicate (eval at evaluate (:234:30), <anonymous>:11:37)
+    at next (eval at evaluate (:234:30), <anonymous>:32:31)"
+2025-09-21_14-37-08,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,timeout,Timeout error: Could not find success confirmation
+2025-09-21_14-38-34,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,timeout,Timeout error: Could not find success confirmation
+2025-09-21_14-41-43,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,timeout,Timeout error: Could not find success confirmation
+2025-09-21_14-43-45,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,success,
+2025-09-21_14-44-31,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,success,
+2025-09-21_14-46-54,https://airtable.com/appNwbrMq410FQjiI/pagh1dLAVxJJf5mQz/form,success,

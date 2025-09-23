@@ -1,0 +1,1 @@
+Return ONLY JSON mapping BASIC_INFO to fields; no submit.

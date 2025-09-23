@@ -1,0 +1,11 @@
+[
+  {"label": "First Name", "type": "text", "value": "Jack"},
+  {"label": "Last Name", "type": "text", "value": "Siggs"},
+  {"label": "Email address", "type": "email", "value": "goin.joe@example.com"},
+  {"label": "Phone Number", "type": "tel", "value": "+1 990 555 0100"},
+  {"label": "City", "type": "text", "value": "San Francisco"},
+  {"label": "State", "type": "text", "value": "California"},
+  {"label": "Age", "type": "number", "value": "16"},
+  {"label": "Current school (if applicable)", "type": "text", "value": "Stanford University"},
+  {"label": "Current occupation (if applicable)", "type": "text", "value": "Software Developer"}
+]

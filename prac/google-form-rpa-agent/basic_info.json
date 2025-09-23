@@ -1,0 +1,11 @@
+{
+  "full_name": "Ada Lovelace",
+  "email": "ada@example.com",
+  "phone": "+1-555-000-1234",
+  "email": "email@example.com",
+  "DOB": "1815-12-10",
+  "address": {
+    "city": "Peoria",
+    "state": "AZ"
+  }
+}

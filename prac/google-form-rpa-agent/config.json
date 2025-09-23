@@ -1,0 +1,37 @@
+{
+  "form_url": "https://docs.google.com/forms/d/e/1FAIpQLScA-rqyk6M4voXpfloq5HnZUrlXt8JG32qboWXNqJpW7lhUQQ/viewform?usp=dialog",
+  "fields": [
+    {
+      "entry_id": "639210176",
+      "question_label": "What is your age",
+      "type": "text",
+      "value": "30",
+      "option_hints": null
+    },
+    {
+      "entry_id": "1129801451",
+      "question_label": "What is your name?",
+      "type": "text",
+      "value": "Ada Lovelace",
+      "option_hints": null
+    },
+    {
+      "entry_id": "967602294",
+      "question_label": "What is your email?",
+      "type": "text",
+      "value": "email@example.com",
+      "option_hints": null
+    },
+    {
+      "entry_id": "509133981",
+      "question_label": "What are you primarily gonna use this for?",
+      "type": "choice",
+      "value": "Crypto",
+      "option_hints": [
+        "Crypto",
+        "Kalshi Betting",
+        "Memecoins"
+      ]
+    }
+  ]
+}

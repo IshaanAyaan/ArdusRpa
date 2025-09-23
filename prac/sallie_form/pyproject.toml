@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "sallie-form-filler"
+version = "1.0.0"
+description = "A robust Sallie Mae scholarship form-filler CLI using Python + Playwright"
+authors = [{name = "Form Filler", email = "form@example.com"}]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "playwright>=1.40.0",
+    "python-dotenv>=1.0.0",
+]
+
+[project.scripts]
+sallie-form-filler = "form_filler.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["form_filler*"]
